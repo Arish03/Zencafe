@@ -1,17 +1,114 @@
-# React + Vite
+# ☕ ZenCafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimalist café landing page built with **React** and **Vite**. ZenCafe showcases a clean user interface, responsive design, and elegant layout suitable for coffee shops, cafés, and small restaurant businesses.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Modern and minimalist UI
+* Fully responsive design
+* Hero section with call-to-action
+* Featured menu cards
+* About section
+* Contact section
+* Smooth scrolling navigation
+* Fast performance with Vite
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* CSS3
+* JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+## 📁 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Zencafe" 
+```text
+src/
+│
+├── App.jsx
+├── App.css
+├── main.jsx
+│
+public/
+│
+package.json
+vite.config.js
+```
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/zencafe.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd zencafe
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+## 🎨 Design Philosophy
+
+ZenCafe follows a minimalist design approach focused on:
+
+* Clean typography
+* Spacious layouts
+* Warm café-inspired colors
+* Smooth user experience
+* Mobile-first responsiveness
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Arish**
+
+Built with ❤️ using React and Vite.
