@@ -40,7 +40,7 @@ vite.config.js
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/zencafe.git
+https://github.com/Arish03/Zencafe.git
 ```
 
 Navigate to the project directory:
